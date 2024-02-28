@@ -1,0 +1,30 @@
+.main-main {
+  margin-top: 24%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.main-main .wrapper-boxes {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  justify-content: center;
+  align-items: center;
+}
+.main-main .wrapper-boxes img {
+  background-color: rgb(243, 236, 225);
+  color: aliceblue;
+}
+.main-main h2 {
+  margin-bottom: 5%;
+}
+.main-main .main-p {
+  width: 297px;
+  text-align: center;
+}
+.main-main .wrapper-box {
+  display: flex;
+  gap: 25px;
+}/*# sourceMappingURL=main.css.map */

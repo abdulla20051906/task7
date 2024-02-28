@@ -1,0 +1,44 @@
+.wrapper-1 {
+  flex-direction: column;
+  margin-top: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper-1 h2 {
+  padding: 40px;
+}
+.wrapper-1 .wrapper-img1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 10px;
+}
+.wrapper-1 .wrapper-img1 .wrapper-img1 img {
+  width: 300px;
+  height: 300px;
+}
+.wrapper-1 .wrapper-2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+}
+.wrapper-1 .wrapper4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+.wrapper-1 .wrapper4 p {
+  padding: 5px;
+}
+.wrapper-1 .wrapper-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 22px;
+}/*# sourceMappingURL=main-center.css.map */

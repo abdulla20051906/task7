@@ -1,0 +1,35 @@
+.main-main{
+    margin-top: 24%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    .wrapper-boxes{
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+        justify-content: center;
+        align-items: center;
+    }
+    .wrapper-boxes img{
+        background-color: rgb(243, 236, 225);
+        color: aliceblue;
+    
+
+    }
+   h2{
+    margin-bottom: 5%;
+   }
+   .main-p{
+    width: 297px;
+    text-align: center;
+    }
+
+   .wrapper-box{
+    display: flex;
+    gap: 25px;
+   }
+ 
+   
+}
